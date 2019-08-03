@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "Web_Service_Consumer",
+            "typeId": "listAllFlightsResponse"
+        }
+    },
+    "id": "94eb725d-e027-43f1-a719-9cbfbdeb5b9a",
+    "version": "5.2.0.0"
+}
