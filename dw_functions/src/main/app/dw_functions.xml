@@ -37,5 +37,6 @@ http://www.mulesoft.org/schema/mule/ee/dw http://www.mulesoft.org/schema/mule/ee
 }]]></dw:set-payload>
         </dw:transform-message>
         <logger level="INFO" doc:name="Logger"/>
+        <logger level="INFO" doc:name="Logger"/>
     </flow>
 </mule>
